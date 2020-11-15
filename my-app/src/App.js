@@ -12,9 +12,11 @@ function App() {
       <Contador></Contador>
       <User></User>
       <Foco lugar="Sala"></Foco>
+      <Foco lugar="Comedor"></Foco>
       <Foco lugar="Cocina"></Foco>
-      <Foco lugar="Recamara"></Foco>
-      <Foco lugar="Banio"></Foco>
+      <Foco lugar="Estancia"></Foco>
+      <Foco lugar="Recamara Principal"></Foco>
+      <Foco lugar="Recamara de los ninios"></Foco>
     </div>
   );
 }
